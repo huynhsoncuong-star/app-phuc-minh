@@ -1,7 +1,7 @@
 {
  "cap_nhat": "2026-09-21",
  "ban_con_hieu_luc": [
-  "r39.86-20260921"
+  "r39.87-20260921"
  ],
  "loi_nhan": "Bản này đã được thu hồi ngày 21/09/2026. Mã truy cập cũ cũng không còn dùng được. Hãy mở bản mới và dùng mã mới đã được cấp.",
  "ghi_chu_noi_bo": "Muốn thu hồi thêm bản nào thì XOÁ mã bản đó khỏi ban_con_hieu_luc rồi tải lại tệp này lên. Không phải dựng lại app."
