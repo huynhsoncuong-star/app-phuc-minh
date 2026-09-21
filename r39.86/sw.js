@@ -1,4 +1,4 @@
-const CACHE='pm-r3932-20260915';
+const CACHE='pm-r3986-20260921';
 const CORE=['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png','./icon-180.png'];
 self.addEventListener('install',e=>{self.skipWaiting();
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE).catch(()=>{})));});
