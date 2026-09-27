@@ -1,8 +1,5 @@
 {
  "cap_nhat": "2026-09-27",
- "ban_con_hieu_luc": [
-  "r39.94-20260927"
- ],
- "loi_nhan": "Bản hiện hành duy nhất là r39.94 (nối máy chủ, bảo mật mã). Mọi bản trước đã thu hồi. Dùng mã đã được cấp.",
- "ghi_chu_noi_bo": "Muốn thu hồi thêm bản nào thì XOÁ mã bản đó khỏi ban_con_hieu_luc rồi tải lại tệp này lên. Không phải dựng lại app."
+ "ban_con_hieu_luc": ["r39.95-20260927"],
+ "loi_nhan": "Từ r39.95, việc bản nào còn hiệu lực do máy chủ quyết định (🔐 Quản lý mã → Bản app được dùng). Tệp này chỉ còn để tham khảo."
 }
